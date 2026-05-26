@@ -141,7 +141,8 @@ Antes de contribuir, leia o [Guia do Contribuidor](DOCUMENTACAO_EstacaoMeteoro.m
 
 ## 👤 Autor
 
-**Matheus Valadares Teixeira**  
+**Matheus Valadares Teixeira** 
+Engenheiro Mecânico com formação complementar em Engenharia de Automação e Controle, Robótica Educacional e Educação para o Ensino Fundamental II e Médio. Possui base sólida em tecnologia e ensino formal e não formal, com foco na integração entre engenharia, robótica e práticas educacionais, voltado ao desenvolvimento de soluções pedagógicas inovadoras.
 Parque Tecnológico de Santo André · Rede Ciência Cidadã
 
 ---
