@@ -443,7 +443,7 @@ Para uso científico, cada leitura deveria ter um registro de tempo. Como o Ardu
 
 ### 7.4 Nome do arquivo pouco descritivo
 
-`Arduino_R4_test.ino` sugere código temporário de teste. Para um repositório open source, recomenda-se renomear para algo como `estacao_meteorologica.ino` ou `weather_station_r4.ino`.
+`Arduino_R4.ino` sugere código temporário de teste. Para um repositório open source, recomenda-se renomear para algo como `estacao_meteorologica.ino` ou `weather_station_r4.ino`.
 
 ---
 
