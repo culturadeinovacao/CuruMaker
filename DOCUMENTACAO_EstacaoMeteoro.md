@@ -1,4 +1,4 @@
-# Estação Meteorológica Maker — Guia do Colaborador
+# CuruMaker — Guia do Colaborador
 
 > **Projeto:** Rede Ciência Cidadã · Parque Tecnológico de Santo André  
 > **Autor original:** Matheus Valadares Teixeira  
