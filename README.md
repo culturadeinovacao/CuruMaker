@@ -15,7 +15,7 @@ Parte da **Rede Ciência Cidadã** · Parque Tecnológico de Santo André
 
 ## 📖 Sobre o Projeto
 
-A **CuruMaker** é um dispositivo embarcado que coleta e exibe dados ambientais em tempo real usando sensores acessíveis e um Arduino UNO R4. O projeto integra a **Rede Ciência Cidadã**, iniciativa que distribui estações para escolas e espaços públicos de Santo André com o objetivo de mapear dados climáticos em nível de bairro.
+O **CuruMaker** é um dispositivo embarcado que coleta e exibe dados ambientais em tempo real usando sensores acessíveis e um Arduino UNO R4. O projeto integra a **Rede Ciência Cidadã**, iniciativa que distribui estações para escolas e espaços públicos de Santo André com o objetivo de mapear dados climáticos em nível de bairro.
 
 ```
 ┌─────────────────────────────────────┐
