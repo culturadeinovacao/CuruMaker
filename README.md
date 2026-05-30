@@ -1,4 +1,4 @@
-# 🌦️ Estação Meteorológica Maker
+# 🌦️ CuruMaker
 
 <div align="center">
 
