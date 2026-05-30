@@ -441,10 +441,6 @@ Para uso científico, cada leitura deveria ter um registro de tempo. Como o Ardu
 // Permite registrar: "2024-06-01 14:32:05,TEMP:24.5,..."
 ```
 
-### 7.4 Nome do arquivo pouco descritivo
-
-`Arduino_R4.ino` sugere código temporário de teste. Para um repositório open source, recomenda-se renomear para algo como `estacao_meteorologica.ino` ou `weather_station_r4.ino`.
-
 ---
 
 *Documentação gerada para contribuidores do projeto Rede Ciência Cidadã — Parque Tecnológico de Santo André.*
